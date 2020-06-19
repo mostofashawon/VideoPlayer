@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+
+    <string name="splash_text"> WelCome To The Application   </string>
+    <string name="dummy">  TiTle     </string>
+    <string name="download_btn">  Download   </string>
+</resources>
